@@ -1,0 +1,7 @@
+# Compiled class file
+*.class
+
+UserServlets/dist/
+UserServlets/build/generated-sources/
+UserServlets/nbproject/
+UserServlets/test/
